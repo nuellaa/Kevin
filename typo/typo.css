@@ -6,7 +6,7 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 ol{
-    list-style: lower-alpha;
+    list-style: upper-roman;
     padding:0;
 }
 ul{
